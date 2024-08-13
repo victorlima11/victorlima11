@@ -23,5 +23,5 @@
 - [Twitter](https://x.com/nyuhvic)
   
 ## Socials
-- [Linktree](https://links-gold-three.vercel.app)
+- [Linktree](https://linktree-zeta-two.vercel.app/)
 
