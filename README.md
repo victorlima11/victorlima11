@@ -14,7 +14,7 @@
 ![Intro GIF](https://s7.ezgif.com/tmp/ezgif-7-0701256b61.gif)
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=desire7779&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=desire777&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desire777&layout=compact&theme=tokyonight"/>
 </div>
 
