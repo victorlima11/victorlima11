@@ -1,16 +1,27 @@
-## Hi there 👋
+# About me
+```python
+  def sobreMim():
+   nome = Victor
+   cidade = Fortaleza, Ce
+   idade = 19 anos
+   tecnologias = Python, JavaScript, HTML e CSS
+  print('''
+  Atualmente estudando programação
+  Engenharia de Software
+  Desenvolvimento de Sistemas
+  ''')
+```
+![Intro GIF](https://s7.ezgif.com/tmp/ezgif-7-0701256b61.gif)
 
-<!--
-**desire777/desire777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyuh999&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyuh999&layout=compact&theme=tokyonight"/>
+</div>
 
-Here are some ideas to get you started:
+## Contato
+- [Email](victorconta1009@gmail.com)
+- [Twitter](https://x.com/nyuhvic)
+  
+## Socials
+- [Linktree](https://links-gold-three.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
