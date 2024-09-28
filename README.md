@@ -16,10 +16,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima11&layout=compact&theme=tokyonight"/>
 </div>
 
-## Contato
-- [Email](victorconta1009@gmail.com)
-- [Twitter](https://x.com/nyuhvic)
-  
-## Socials
-- [Linktree](https://linktree-zeta-two.vercel.app/)
 
