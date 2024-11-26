@@ -3,7 +3,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima11&layout=compact&theme=tokyonight"/>
 </div>
 
-<img width="50%" align="right" alt="GitHub Stats" src="https://readme-stats-breno.vercel.app/api?username=kyoto.333&show_icons=true">
+<a href="https://discord.com/users/1213192346276200512">
+  <img src="https://lanyard.cnrad.dev/api/1213192346276200512?theme=dark&hideClan=false&hideProfile=false&showDisplayName=true" />
+</a>
 
 * Tecnologias Utilizadas
   
