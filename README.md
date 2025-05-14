@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Stacks</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,nodejs,react,ts,git&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,react,ts,nextjs,git&theme=dark" alt="My Skills" />
     <br>
-    <img src="https://skillicons.dev/icons?i=postgres,html,css,django,fastapi,tailwind&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=postgres,html,css,django,fastapi,tailwind,prisma&theme=dark" alt="My Skills" />
   </a>
 </div>
 <br>
